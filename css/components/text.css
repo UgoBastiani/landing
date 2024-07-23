@@ -1,0 +1,29 @@
+.container {
+  padding: 220px;
+  padding-left: 350px;
+}
+
+.container h1 {
+  color: white;
+  margin-top: 0px;
+}
+
+.container p {
+  color: white;
+  margin-bottom: 50px;
+}
+
+.card p {
+  color: gray;
+  text-align: center;
+}
+
+.container h2 {
+  display: grid;
+  justify-content: center;
+  padding-top: 0px;
+}
+
+.footer p {
+  color: gray;
+}

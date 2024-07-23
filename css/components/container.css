@@ -1,0 +1,46 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border: solid rgba(128, 128, 128, 0.377);
+  margin: 20px;
+  height: 300px;
+  box-shadow: 2px 2px 2px 2px rgba(145, 144, 144, 0.39);
+}
+
+#no-padding {
+  padding-top: 0px;
+  padding-bottom: 100px;
+  padding-left: 350px;
+  padding-right: 350px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #2C2B2B;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer i {
+  color: #1EDD88;
+  font-size: 35px;
+  width: 50px;
+}
+
+.logos {
+  align-items: center;
+
+}
+
+.last-line {
+  align-items: center;
+}
